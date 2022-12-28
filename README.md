@@ -100,4 +100,17 @@
                             <td> Caafimaad
                             </td>
                       
+                            body{
+    background-color: aliceblue;
+    background-size: cover;
+}
+table{
+    color: rgb(47, 7, 190);
+    font-size: 40px;
+
+}
+h1{
+    color:rgb(228, 4, 109);font-family: "element";
+    font-size: 36px;
+}
                     
