@@ -13,7 +13,7 @@
                     <th>Buuntada</th>
                     <th>Darajo</th>
                     <th>Fasalka</th>
-                </tr>
+             
                 <tr>
                     <th>1. </th>
                     <td> Hassan Mohamud Hassan</td>
@@ -22,10 +22,10 @@
                         <td>  B
                         <td> Caafimaad</td>
                     </td>
-                </tr>
+                
                 <tr>
                     
-                </tr>
+                
                 <tr>
                     <th>2. </th>
                     <td> Abdirisak Adam Mohamud </td>
@@ -34,7 +34,7 @@
                     </td>
                     <td> Caafimaad
                     </td>
-                </tr>
+                
                 <tr>
                     <th>3. </th>
                     <td> Salman Abdullahi Ali </td>
@@ -43,7 +43,7 @@
                     </td>
                     <td> Caafimaad
                     </td>
-                </tr>
+                
                 <tr>
                     <tr>
                         <th>4. </th>
@@ -55,7 +55,7 @@
                     </tr>
                     <tr>
                         
-                    </tr>
+                    
                     <tr>
                         <th>5. </th>
                         <td> Anas Hassan Abdi</td>
@@ -63,7 +63,7 @@
                         <td> E
                         <td> Caafimaad
                         </td>
-                    </tr>
+                    
                     <tr>
                         <tr>
                             <th>6. </th>
